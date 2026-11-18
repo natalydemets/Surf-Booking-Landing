@@ -4,9 +4,9 @@
 
 **Natalie Demets** · Manual QA Engineer / TestRail Administrator · 2026
 
-[![Surfing Booking QA showcase video](media/Surf_Booking_preview.gif)](media/Surf_Booking_QA_Portfolio_Revised.mp4)
+[![Surfing Booking QA showcase video](media/Surf_Booking_preview.gif)](https://raw.githubusercontent.com/natalydemets/Surf-Booking-Landing/main/media/Surf_Booking_QA_Portfolio_Revised.mp4)
 
-▶️ **[Watch the 2-minute QA showcase video](media/Surf_Booking_QA_Portfolio_Revised.mp4)** · 🌐 **[Live demo](https://surf-booking-ten.vercel.app)**
+▶️ **[Watch the 2-minute QA showcase video](https://raw.githubusercontent.com/natalydemets/Surf-Booking-Landing/main/media/Surf_Booking_QA_Portfolio_Revised.mp4)** · 🌐 **[Live demo](https://surf-booking-ten.vercel.app)**
 
 ## About the project
 
